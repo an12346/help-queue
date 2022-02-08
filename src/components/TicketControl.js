@@ -57,4 +57,4 @@ class TicketControl extends React.Component {
   }
 }
 
-export default Ticket;
+export default TicketControl;
